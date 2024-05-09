@@ -1,0 +1,16 @@
+=================RESULT=================
+Name: Aayush
+Age: 19
+Gender: Male
+Occupation: Student
+========================================
+Illness Diagnosed:  , Depression, Anxiety Disorder, Bipolar, Schizophrenia, Depression, Anxiety Disorder, Bipolar, Schizophrenia
+========================================
+Depression: Symptoms may include persistent sadness, loss of interest in activities, feelings of hopelessness or worthlessness, sleep disturbances, fatigue, changes in appetite, and difficulty concentrating. To help reduce depression, individuals may benefit from therapy, medication, regular exercise, a healthy diet, and social support.
+
+Anxiety disorders: Symptoms may include excessive worry, restlessness, irritability, difficulty concentrating, and physical symptoms such as sweating or trembling. To help reduce anxiety, individuals may benefit from therapy, medication, mindfulness techniques such as meditation or deep breathing exercises, regular exercise, and limiting caffeine and alcohol intake.
+
+Bipolar disorder: Symptoms may include mood swings between periods of high energy (mania) and periods of depression. To help reduce bipolar symptoms, individuals may benefit from therapy, medication, and developing a regular routine for sleep and exercise.
+
+Schizophrenia: Symptoms may include delusions, hallucinations, disordered thinking, and social withdrawal. To help reduce schizophrenia symptoms, individuals may benefit from medication, therapy, and support from family and friends.
+
